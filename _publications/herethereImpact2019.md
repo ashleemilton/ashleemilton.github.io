@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Here, There, and Everywhere: Building a Scaffolding for Children’s Learning Through Recommendations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-09-16-herethere
+excerpt: 'Reading and literacy are on the decline among children. This is compounded by the fact that children have trouble with the discovery of resources that are appropriate, diverse, and appealing. With technology becoming an evermore presence in children’s lives, tools that can minimize choice overload and ease access to online resources become a must. A powerful but underutilized tool in regards to children that could assist in this situation is a recommender system (RS). We posit that RS could be used to impact children’s learning, using them to not only suggest what children might like but what they need in regards to learning. At the same time, if scoped inappropriately, outcomes from RS could be used to alter children’s outlook. The goal instead is to strive for RS that offer suggestions based off children’s evolving knowledge, preferences, reading level, etc., so that with the proper intervention from an expert-in-the-loop (eg, parents/teachers) could impact not only children’s educational performance, but help them to reach the goal of learning to learn.'
+date: 2019-09-16
+venue: 'The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019'
+paperurl: 'http://ashleemilton.github.io/files/herethereImapact2019.pdf'
+citation: 'Milton, A., Murgia, E., Landoni, M., Huibers, T., & Pera, M. S. (2019). &quot;"Here, There, and Everywhere: Building a Scaffolding for Children’s Learning Through Recommendations&quot; <i>Proceddings of the 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Reading and literacy are on the decline among children. This is compounded by the fact that children have trouble with the discovery of resources that are appropriate, diverse, and appealing. With technology becoming an evermore presence in children’s lives, tools that can minimize choice overload and ease access to online resources become a must. A powerful but underutilized tool in regards to children that could assist in this situation is a recommender system (RS). We posit that RS could be used to impact children’s learning, using them to not only suggest what children might like but what they need in regards to learning. At the same time, if scoped inappropriately, outcomes from RS could be used to alter children’s outlook. The goal instead is to strive for RS that offer suggestions based off children’s evolving knowledge, preferences, reading level, etc., so that with the proper intervention from an expert-in-the-loop (eg, parents/teachers) could impact not only children’s educational performance, but help them to reach the goal of learning to learn.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://ashleemilton.github.io/files/herethereImapact2019.pdf)
