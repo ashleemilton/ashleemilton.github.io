@@ -1,8 +1,8 @@
 ---
 title: "Here, There, and Everywhere: Building a Scaffolding for Children’s Learning Through Recommendations"
 collection: publications
-permalink: /publication/2019-09-16-herethere
-date: 2019-09-16
+permalink: /publication/2019-09-10-herethere
+date: 2019-09-10
 venue: 'The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019'
 paperurl: 'http://ashleemilton.github.io/files/herethereImpact2019.pdf'
 citation: 'Milton, A., Murgia, E., Landoni, M., Huibers, T., & Pera, M. S. (2019). &quot; Here, There, and Everywhere: Building a Scaffolding for Children’s Learning Through Recommendations &quot; <i>Proceddings of the 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019</i>.'
