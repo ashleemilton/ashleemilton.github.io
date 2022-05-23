@@ -2,7 +2,6 @@
 title: "StoryTime: eliciting preferences from children for book recommendations"
 collection: publications
 permalink: /publication/2019-09-10-storytime
-excerpt: 'We present StoryTime, a book recommender for children. Our web-based recommender is co-designed with children and uses images to elicit their preferences. By building on existing solutions related to both visual interfaces and book recommendation strategies for children, StoryTime can generate suggestions without historical data or adult guidance. We discuss the benefits of StoryTime as a starting point for further research exploring the cold start problem, incorporating historical data, and needs related to children as a complex audience to enhance the recommendation process.'
 date: 2019-09-10
 venue: 'The 13th ACM Conference on Recommender Systems'
 paperurl: 'http://ashleemilton.github.io/files/storytimeRecSys2019.pdf'
