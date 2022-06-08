@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-04-10-reading
 date: 2022-04-10
 venue: 'The 44th European Conference on IR Research (ECIR)'
-excerpt: Readability is a core component of information retrieval (IR) tools as the complexity of a resource directly affects its relevance: a resource is only of use if the user can comprehend it. Even so, the link between readability and IR is often overlooked. As a step towards advancing knowledge on the influence of readability on IR, we focus on Web search for children...
+excerpt: 'Readability is a core component of information retrieval (IR) tools as the complexity of a resource directly affects its relevance: a resource is only of use if the user can comprehend it. Even so, the link between readability and IR is often overlooked. As a step towards advancing knowledge on the influence of readability on IR, we focus on Web search for children...'
 paperurl: 'http://ashleemilton.github.io/files/readingECIR2022.pdf'
 citation: 'Allen, G., Milton, A., Wright, K. L., Fails, J. A., Kennington, C., & Pera, M. S. (2022). &quot;Supercalifragilisticexpialidocious: Why Using the “Right” Readability Formula in Children’s Web Search Matters &quot; <i>The 44th European Conference on IR Research (ECIR)</i>.'
 ---
