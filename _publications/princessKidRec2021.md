@@ -1,13 +1,13 @@
 ---
-title: "Pink for Princess, Blue for Superheroes: The Need to Examine Gender Sterotypes in Kid's Products in Search and Recommendations"
+title: "Baby Shark to Barracuda: Analyzing Children’s Music Listening Behavior"
 collection: publications
-permalink: /publication/2021-05-14-princess
-date: 2021-05-13
-venue: 'The 5th KidRec Workshop co-located with ACM Interaction, Design, and Children Conference 2021'
-excerpt: In this position paper, we argue for the need to investigate if and how gender stereotypes manifest in search and recommender systems...
-paperurl: 'http://ashleemilton.github.io/files/pinkKidRecc2021.pdf'
-citation: 'Raj, A., Milton, A., & Ekstrand, M. D. (2021). &quot;Pink for Princess, Blue for Superheroes: The Need to Examine Gender Sterotypes in Kid's Products in Search and Recommendations&quot; <i>Proceedings of the 5th KidRec Workshop co-located with ACM Interation, Design, and Children Conference</i>.'
+permalink: /publication/2021-09-13-babyshark
+date: 2021-09-13
+venue: 'The 15th ACM Conference on Recommender Systems'
+excerpt: Music is an important part of childhood development, with online music listening platforms being a significant channel by which children consume music. Children’s offline music listening behavior has been heavily researched, yet relatively few studies explore how their behavior manifests online...
+paperurl: 'http://ashleemilton.github.io/files/babysharkRecSys2021.pdf'
+citation: 'Spear, L., Milton, A., Allen, G., Raj, A., Green, M., Ekstrand, M. D., & Pera, M. S. (2021). &quot;Baby Shark to Barracuda: Analyzing Children’s Music Listening Behavior &quot; <i>Proceedings of the 15th ACM Conference on Recommender Systems</i>.'
 ---
-In this position paper, we argue for the need to investigate if and how gender stereotypes manifest in search and recommender systems. As a starting point, we particularly focus on how these systems may propagate and reinforce gender stereotypes through their results in learning environments, a context where teachers and children in their formative stage regularly interact with these systems. We provide motivating examples supporting our concerns and outline an agenda to support future research addressing the phenomena.
+Music is an important part of childhood development, with online music listening platforms being a significant channel by which children consume music. Children’s offline music listening behavior has been heavily researched, yet relatively few studies explore how their behavior manifests online. In this paper, we use data from LastFM 1 Billion and the Spotify API to explore online music listening behavior of children, ages 6–17, using education levels as lenses for our analysis. Understanding the music listening behavior of children can be used to inform the future design of recommender systems.
 
-[Download paper here](http://ashleemilton.github.io/files/pinkKidRec2021.pdf)
+[Download paper here](http://ashleemilton.github.io/files/babysharkRecSys2021.pdf)
