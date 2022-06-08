@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2021-06-15-infinity
 date: 2021-06-15
 venue: 'IR for Children 2000-2020: Where Are We Now? Workshop co-located with the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval'
+excerpt: Research in the area of search engines for children remains in its infancy. Seminal works have studied how children use mainstream search engines, as well as how to design and evaluate custom search engines explicitly for children...
 paperurl: 'http://ashleemilton.github.io/files/infinityIR4C2021.pdf'
 citation: 'Milton, A., Allen, G., & Pera, M. S. (2021). &quot;To Infinity and Beyond! Accessibility is the Future for Kids Search Engines &quot; <i>IR for Children 2000-2020: Where Are We Now? Workshop co-located with the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval</i>.'
 ---

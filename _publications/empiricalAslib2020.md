@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2020-01-08-empirical
 date: 2020-01-08
 venue: 'Aslib Journal of Information Management'
+excerpt: The purpose of this paper is to examine strengths and limitations that search engines (SEs) exhibit when responding to web search queries associated with the grade school curriculum...
 paperurl: 'http://ashleemilton.github.io/files/empiricalAslib2020.pdf'
 citation: 'Anuyah, O., Milton, A., Green, M., & Pera, M. S. (2020). &quot; An empirical analysis of search engines’ response to web search queries associated with the classroom setting &quot; <i>Aslib Journal of Information Management</i>. 72(1).'
 ---

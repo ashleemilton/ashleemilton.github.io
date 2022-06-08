@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2019-09-10-storytime
 date: 2019-09-10
 venue: 'The 13th ACM Conference on Recommender Systems'
+excerpt: We present StoryTime, a book recommender for children. Our web-based recommender is co-designed with children and uses images to elicit their preferences...
 paperurl: 'http://ashleemilton.github.io/files/storytimeRecSys2019.pdf'
 citation: 'Milton, A., Green, M., Keener, A., Ames, J., Ekstrand, M. D., & Pera, M. S. (2019). &quot;StoryTime: eliciting preferences from children for book recommendations &quot; <i>Proceedings of the 13th ACM Conference on Recommender Systems</i>. 1(3).'
 ---

@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2020-07-07-feel
 date: 2020-07-07
 venue: 'The 1st Joint Conference of the Information Retrieval Communities in Europe (CIRCLE)'
+excerpt: Mental health disorders (MHD) is a rising, yet stigmatized, topic in the United States. Individuals suffering from MHD are slowing starting to overcome this stigma by discussing how technology affects them. Researchers have explored behavioral nuances that emerge from interactions of individuals affected by MHD with persuasive technologies, mainly social media...
 paperurl: 'http://ashleemilton.github.io/files/feelCircle2020.pdf'
 citation: 'Milton, A. & Pera, M. S. (2020). &quot;What Snippets Feel: Depression, Search, and Snippets &quot; <i>The 1st Joint Conference of the Information Retrieval Communities in Europe (CIRCLE)</i>.'
 ---

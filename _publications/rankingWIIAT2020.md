@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2020-12-14-ranking
 date: 2020-12-14
 venue: 'IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)'
+excerpt: Popular search engines (SE) favored by children are optimized neither to respond to their search behavior and abilities, nor retrieve resources that align with classroom standards. Further, attempts to adapt SE to support children's inquiries have been one-dimensional, e.g., satisfy users' reading skills or search expertise...
 paperurl: 'http://ashleemilton.github.io/files/rankingWIIAT2020.pdf'
 citation: 'Milton, A., Anuya, O., Spear, L., Wright, K. L., & Pera, M. S. (2020). &quot;A Ranking Strategy to Promote Resources Supporting the Classroom Environment &quot; <i>Proceedings of the IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)</i>. 1(3).'
 ---
