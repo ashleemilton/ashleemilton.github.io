@@ -1,7 +1,7 @@
 ---
 title: "Pink for Princesses, Blue for Superheroes: The Need to Examine Gender Stereotypes in Kid's Products in Search and Recommendations"
 collection: publications
-permalink: /publication/2021-05-13-comprehensive
+permalink: /publication/2021-05-13-pink
 date: 2021-05-13
 venue: 'The 5th KidRec Workshop co-located with ACM  Interaction Design and Children (IDC) Conference 2019'
 excerpt: 'In this position paper, we argue for the need to investigate if and how gender stereotypes manifest in search and recommender systems...'
