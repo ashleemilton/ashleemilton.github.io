@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-05-13-comprehensive
 date: 2021-05-13
 venue: 'The 5th KidRec Workshop co-located with ACM  Interaction Design and Children (IDC) Conference 2019'
-excerpt: In this position paper, we argue for the need to investigate if and how gender stereotypes manifest in search and recommender systems...
+excerpt: 'In this position paper, we argue for the need to investigate if and how gender stereotypes manifest in search and recommender systems...'
 paperurl: 'http://ashleemilton.github.io/files/pinkKidRec2021.pdf'
 citation: 'Raj, A., Milton, A., & Ekstrand, M. D. (2021). &quot;Pink for Princesses, Blue for Superheroes: The Need to Examine Gender Stereotypes in Kid's Products in Search and Recommendations &quot; <i>The 5th KidRec Workshop co-located with ACM  Interaction Design and Children (IDC) Conference</i>.'
 ---
