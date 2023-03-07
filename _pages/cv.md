@@ -62,6 +62,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Student Mentorship and Research Supervision
+======
+* Undergraduate Research
+  * Alice Zhang, Computer Science, 2022 - Current
+
 Service and Leadership
 ======
 * Boise State University ACM-W Vice President, Spring 2019 - Spring 2021
+* Lab Resource Manager for GroupLens, Fall 2023 - Current
+* Mentor in the Queer Peer Mentorship Program, Spring 2023 - Current
+
+
