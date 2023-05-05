@@ -62,6 +62,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+Fellowships, Honors, and Awards
+======
+* 2020  CRA Outstanding Undergraduate Research Finalist
+* 2020  NSF Steller Engineering Students Graduate Program Scholarship
+* 2021  Grants to Advance Graduate Education  (GAGE) Fellowship
+
 Student Mentorship and Research Supervision
 ======
 * Undergraduate Research
@@ -73,4 +80,10 @@ Service and Leadership
 * Lab Resource Manager for GroupLens, Fall 2023 - Current
 * Mentor in the Queer Peer Mentorship Program, Spring 2023 - Current
 
-
+Selected Press and Interviews
+======
+* 2023  [How is TikTok affecting our mental health? It's complicated, new U of M study shows](https://cse.umn.edu/college/news/how-tiktok-affecting-our-mental-health-its-complicated-new-u-m-study-shows)
+  * Story picked up by:
+    * [Star Tribune](https://www.startribune.com/minnesota-researchers-study-tiktok-benefits-harms-on-mental-health/600268140/)
+    * [KARE 11](https://www.kare11.com/article/news/local/umn-researchers-look-into-tiktok-affect-on-mental-health/89-f02ec4b9-59ba-41e0-835b-6d9b1b8cafec)
+    * [CBS Minnesota WCCO](https://www.youtube.com/watch?v=KXMrfGLjnj4)
