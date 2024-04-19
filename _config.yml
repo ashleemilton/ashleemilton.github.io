@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashlee Milton"
+title                    : "Ashlee Milton (they/her)"
 title_separator          : "-"
 name                     : &name "Ashlee Milton"
 description              : &description "Ph.D. Student at University of Minnesota working in the GroupLens Lab"
