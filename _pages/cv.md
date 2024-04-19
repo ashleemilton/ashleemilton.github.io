@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download CV here](http://ashleemilton.github.io/files/CV2024.pdf)
 
 Education
 ======
@@ -77,5 +78,3 @@ Selected Press and Interviews
     * [Star Tribune](https://www.startribune.com/minnesota-researchers-study-tiktok-benefits-harms-on-mental-health/600268140/)
     * [KARE 11](https://www.kare11.com/article/news/local/umn-researchers-look-into-tiktok-affect-on-mental-health/89-f02ec4b9-59ba-41e0-835b-6d9b1b8cafec)
     * [CBS Minnesota WCCO](https://www.youtube.com/watch?v=KXMrfGLjnj4)
-
-[Download CV here](http://ashleemilton.github.io/files/CV2024.pdf)
