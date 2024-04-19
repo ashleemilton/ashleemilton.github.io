@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashlee Milton (they/her)"
+title                    : "Ashlee Milton"
 title_separator          : "-"
 name                     : &name "Ashlee Milton"
 description              : &description "Ph.D. Student at University of Minnesota working in the GroupLens Lab"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ashlee Milton"
+  name             : "Ashlee Milton (they/her)"
   avatar           : "profile.png"
   bio              : "Ph.D. Student at Univeristy of Minnesota working at the intersection of social computing and information retrival"
   location         : "Minneapolis, Minnesota"
