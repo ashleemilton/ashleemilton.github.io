@@ -10,6 +10,6 @@ redirect_from:
 
 ## Hi, I am Ashlee Milton!
 
-I am a Ph.D student with [GroupLens](https://grouplens.org/) at the University of Minnesota, advised by [Dr. Stevie Chancellor](http://steviechancellor.com/). 
+I am a Ph.D Candidate in Computer Science with [GroupLens](https://grouplens.org/) at the University of Minnesota, advised by [Dr. Stevie Chancellor](http://steviechancellor.com/). 
 
-My research interests are focused in the areas of Social Computing, Information Retrieval, and Human-Computer Interaction. I also have a particular interest in working with stigmatized users and communities.
+My area of expertise is in human-computer interaction and information retrieval, focusing on working with marginalized populations in technology, such as individuals with mental illness or who are neurodiverse, as well as children. My current research interests are focused on understanding the experiences and needs of users when navigating information systems for mental health information.
