@@ -41,34 +41,41 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
 Fellowships, Honors, and Awards
 ======
-* 2021  Grants to Advance Graduate Education  (GAGE) Fellowship
+* 2024  ARCS Foundation MN Chapter Scholar
+* 2021  Grants to Advance Graduate Education (GAGE) Fellowship
 * 2020  CRA Outstanding Undergraduate Research Finalist
 * 2020  NSF Steller Engineering Students Graduate Program Scholarship
 
 Student Mentorship and Research Supervision
 ======
 * Masters Research
-  * Audrey Gasser, University of Minnesota, 2024 - Present
+  * Audrey Gasser, University of Minnesota, 2024
 * Undergraduate Research
   * Harshini Bellamkonda, University of Minnesota, 2023 - Present
-  * Elizabeth Treveen, Carnegie Mellon University, 2023 - Present
-	* Alice Zhang, University of Minnesota, 2022 - Present
+  * Elizabeth Treveen, Carnegie Mellon University, 2023
+  * Alice Zhang, University of Minnesota, 2022 - 2024
 
 
 Service and Leadership
 ======
-* Student Representative for GroupLens Lab, 2023 - Present
+* Student Social Cordinatore for GroupLens Lab, 2024 - Present
+* Student Representative for GroupLens Lab, 2023 - 2024
 * Mentor in the Queer Peer Mentorship Program, 2023
 * Lab Resource Manager for GroupLens Lab, 2022 - 2023
 * Boise State University ACM-W Vice President, 2019 - 2021
 * Student Volunteer, RecSys 2019
+
+Invited Talks
+======
+* Summer Institute in Adolescent Health: Cultivating Adolescent Well-Being in the Digital Age
+  * Invited Speaker - 2024
 
 Selected Press and Interviews
 ======
