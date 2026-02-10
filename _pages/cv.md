@@ -19,9 +19,9 @@ Education
 
 Work experience
 ======
-* Fall 2021 - Current: Graduate Research Assistant
+* Fall 2021 - Current: Graduate Assistant
   * Univeristy of Minnesota
-  * Duties included: Research and TA for Introdution to Data Structures
+  * Duties included: Research and TA for Introdution to Data Structures and Internet Programming
   * Supervisor: Dr. Stevie Chancellor
 
 * Spring 2020 - Summer 2021: Graduate Assistant
@@ -29,14 +29,9 @@ Work experience
   * Duties included: Research and TA for Theory of Computation
   * Supervisor: Dr. Sole Pera
 
-* Spring 2019 - Fall 2020: Undergraduate Grader
+* Spring 2019 - Fall 2020: Undergraduate Assisstant
   * Boise State Univeristy
-  * Duties included: Grading for Theory of Computation
-  * Supervisor: Dr. Sole Pera
-
-* Spring 2019 - Fall 2020: Undergraduate Research Assistant
-  * Boise State Univeristy
-  * Duties included: Research
+  * Duties included: Research and Grader for Theory of Computation
   * Supervisor: Dr. Sole Pera
 
 Publications
@@ -48,7 +43,8 @@ Publications
 
 Fellowships, Honors, and Awards
 ======
-* 2024  ARCS Foundation MN Chapter Scholar
+* 2026  Graduate Assistance in Areas of National Need (GAANN) Fellowship
+* 2024/2025  ARCS Foundation MN Chapter Scholar
 * 2021  Grants to Advance Graduate Education (GAGE) Fellowship
 * 2020  CRA Outstanding Undergraduate Research Finalist
 * 2020  NSF Steller Engineering Students Graduate Program Scholarship
@@ -56,6 +52,7 @@ Fellowships, Honors, and Awards
 Student Mentorship and Research Supervision
 ======
 * Masters Research
+  * Surabhi Sunil, University of Minnesota, 2025
   * Audrey Gasser, University of Minnesota, 2024
 * Undergraduate Research
   * Harshini Bellamkonda, University of Minnesota, 2023 - Present
@@ -79,6 +76,7 @@ Invited Talks
 
 Selected Press and Interviews
 ======
+* 2025 [TikTok's mental health 'rabbit hole'? It's not in your head](https://www.washingtonpost.com/technology/interactive/2025/tiktok-algorithm-mental-health/)
 * 2024  [Online Users Navigate Mental Health Information, Empowered to Help Make Changes](https://casmi.northwestern.edu/news/articles/2024/online-users-navigate-mental-health-information-empowered-to-help-make-changes.html)
 * 2023  [How is TikTok affecting our mental health? It's complicated, new U of M study shows](https://cse.umn.edu/college/news/how-tiktok-affecting-our-mental-health-its-complicated-new-u-m-study-shows)
   * Story picked up by:
