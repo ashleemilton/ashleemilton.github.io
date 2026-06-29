@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-## Hi, I am Ashlee Milton!
+## Hi, I am Ash Milton!
 
-I am a Ph.D Candidate in Computer Science with [GroupLens](https://grouplens.org/) at the University of Minnesota, advised by [Dr. Stevie Chancellor](http://steviechancellor.com/). 
+As a Ph.D. candidate in Computer Science at the University of Minnesota's [GroupLens](https://grouplens.org/) lab, advised by [Dr. Stevie Chancellor](http://steviechancellor.com/), I study users with mental health conditions' experiences and interactions with information systems, like search engines and social media. The design of many sociotechnical systems does not consider such users, and I want to change that.
 
-My area of expertise is in human-computer interaction and information retrieval, focusing on working with marginalized populations in technology, such as individuals with mental illness or who are neurodiverse, as well as children. My current research interests are focused on understanding the experiences and needs of users when navigating information systems for mental health information.
+In my work, I strive to understand the experiences and needs of technologically marginalized users like children, people with LGBTQIA+ identities, and people with mental health disorders or neurodivergence. These users have important and diverse needs that are often not supported by current technology designs. I leverage qualitative and quantitative methods to explore maragnlized users' needs. As people with the most expertise about their own needs, I believe in centering them in my research to inform the design of systems to support their daily and digital lives.
+
+Some of my work on TikTok that reveals how the FYP can both support and harm users with mental health conditions, mental well-being, has been featured in [national media coverage](https://www.kare11.com/article/news/local/umn-researchers-look-into-tiktok-affect-on-mental-health/89-f02ec4b9-59ba-41e0-835b-6d9b1b8cafec) and informed [policy on social media](https://www.oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en.html). I want to continue doing work that allows me to keep asking and investigating important questions, in hopes of moving towards a future where technology can support everyone.
+
+### I will be on the job market this year, seeking research-focused positions across academia, industry, and policy.

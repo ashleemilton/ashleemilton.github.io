@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ashlee Milton"
 title_separator          : "-"
 name                     : &name "Ashlee Milton"
-description              : &description "Ph.D. Student at University of Minnesota working in the GroupLens Lab"
+description              : &description "Ph.D. Candidate at University of Minnesota working in the GroupLens Lab"
 url                      : https://ashleemilton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashleemilton/ashleemilton.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ashlee Milton (they/she)"
+  name             : "Ash Milton (they/she)"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate at Univeristy of Minnesota working at the intersection of human-computer interaction and information retrival"
   location         : "Minneapolis, Minnesota"
-  employer         :
+  employer         : "Univeristy of Minnesota"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?hl=en&user=0mgoq98AAAAJ"
-  email            :
+  email            : "milto064@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ash-milton/"
   orcid            : "http://orcid.org/0000-0002-0320-6122"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "Owlslee13"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

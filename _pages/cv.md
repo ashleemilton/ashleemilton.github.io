@@ -62,6 +62,7 @@ Student Mentorship and Research Supervision
 
 Service and Leadership
 ======
+* CHI Subcommitee Assistant for Interactions Beyond the Individual, 2024 - 2025
 * Student Social Cordinatore for GroupLens Lab, 2024 - Present
 * Student Representative for GroupLens Lab, 2023 - 2024
 * Mentor in the Queer Peer Mentorship Program, 2023
