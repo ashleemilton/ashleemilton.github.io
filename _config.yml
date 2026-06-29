@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter Owlslee13
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Ash Milton (they/she)"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate at Univeristy of Minnesota working at the intersection of human-computer interaction and information retrival"
-  location         : "Minneapolis, Minnesota"
+  location         : 
   employer         : "Univeristy of Minnesota"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?hl=en&user=0mgoq98AAAAJ"

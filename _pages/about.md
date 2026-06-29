@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hi, I am Ash Milton!
+## Hi, I am Ashlee (Ash) Milton!
 
 As a Ph.D. candidate in Computer Science at the University of Minnesota's [GroupLens](https://grouplens.org/) lab, advised by [Dr. Stevie Chancellor](http://steviechancellor.com/), I study users with mental health conditions' experiences and interactions with information systems, like search engines and social media. The design of many sociotechnical systems does not consider such users, and I want to change that.
 
